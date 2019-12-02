@@ -1,0 +1,12 @@
+dependencies:
+  '@jspm/resolve': 1.0.0
+packages:
+  /@jspm/resolve/1.0.0:
+    dev: false
+    resolution:
+      integrity: sha512-oTcwoBmqpMLMp3M/f5Ji1ztX0ZwveByjH5UVwKQxCMKh3MCQ7ICcXgpznQqrnhalB7NBPae0uMx+1dtubjAIVQ==
+registry: 'https://registry.npmjs.org/'
+shrinkwrapMinorVersion: 9
+shrinkwrapVersion: 3
+specifiers:
+  '@jspm/resolve': ^1.0.0

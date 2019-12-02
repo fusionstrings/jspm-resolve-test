@@ -1,0 +1,26 @@
+{
+  "//1": "describes your app and its dependencies",
+  "//2": "https://docs.npmjs.com/files/package.json",
+  "//3": "updating this file will download and update your packages",
+  "name": "jspm-resolve-test",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node --experimental-modules ./test.js"
+  },
+  "dependencies": {
+    "@jspm/resolve": "^1.0.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/jspm-resolve-test"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ],
+  "type": "module"
+}
