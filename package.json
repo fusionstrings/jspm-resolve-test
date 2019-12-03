@@ -8,7 +8,7 @@
     "start": "node --experimental-modules ./test.js"
   },
   "dependencies": {
-    "@jspm/resolve": "^1.0.0"
+    "@jspm/resolve": "github:jspm/jspm-resolve"
   },
   "engines": {
     "node": "12.x"
