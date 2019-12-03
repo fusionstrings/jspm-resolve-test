@@ -1,12 +1,14 @@
 dependencies:
-  '@jspm/resolve': 1.0.0
+  '@jspm/resolve': github.com/jspm/jspm-resolve/3e913b7428efa859757fe8518e303d45b8c7795d
 packages:
-  /@jspm/resolve/1.0.0:
+  github.com/jspm/jspm-resolve/3e913b7428efa859757fe8518e303d45b8c7795d:
     dev: false
+    name: '@jspm/resolve'
     resolution:
-      integrity: sha512-oTcwoBmqpMLMp3M/f5Ji1ztX0ZwveByjH5UVwKQxCMKh3MCQ7ICcXgpznQqrnhalB7NBPae0uMx+1dtubjAIVQ==
+      tarball: 'https://codeload.github.com/jspm/jspm-resolve/tar.gz/3e913b7428efa859757fe8518e303d45b8c7795d'
+    version: 1.0.0
 registry: 'https://registry.npmjs.org/'
 shrinkwrapMinorVersion: 9
 shrinkwrapVersion: 3
 specifiers:
-  '@jspm/resolve': ^1.0.0
+  '@jspm/resolve': 'github:jspm/jspm-resolve'
